@@ -1,4 +1,3 @@
-//声明和定义
 //声明与定义
 #include <iostream>
 using namespace std;

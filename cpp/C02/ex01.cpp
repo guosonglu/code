@@ -5,4 +5,5 @@ using namespace std;
 int main(){
    cout << "I am Bob." << endl;
    cout << "I am eight years old" << endl;
+   cout << "aaa" << endl;
 }

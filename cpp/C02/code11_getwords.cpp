@@ -1,4 +1,3 @@
-//将文件分成空格分隔的字符
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -7,7 +6,7 @@ using namespace std;
 
 int main(){
     vector<string> words;
-    ifstream in("GetWords.cpp");
+    ifstream in("code11_getWords.cpp");
     string word;
     while(in >> word){
         words.push_back(word);

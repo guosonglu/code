@@ -4,8 +4,7 @@ using namespace std;
 
 int main(){
     //使用操作符指定格式
-    cout << "十进制："
-        << dec << 15 << endl;
+    cout << "十进制：" << dec << 15 << endl;
     cout << "八进制：" << oct << 15 << endl;
     cout << "十六进制：" << hex << 15 << endl;
     cout << "浮点数：" << 3.14159 << endl;
