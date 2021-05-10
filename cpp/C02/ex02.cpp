@@ -10,5 +10,5 @@ int main(){
    float d;
    cout << "请输入圆的半径：";
    cin >> d;
-   cout << "圆的面积为：" << d*d*3.14 << endl; 
+   cout << "圆的面积为：" << d*d*pi << endl; 
 }
