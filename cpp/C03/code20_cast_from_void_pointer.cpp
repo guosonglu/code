@@ -1,0 +1,7 @@
+//void*与变量相互转换
+
+int main(){
+    int i=99;
+    void* vp=&i;
+    *((int*)vp)=3;
+}
